@@ -48,9 +48,11 @@
                         </subviews>
                         <color key="backgroundColor" red="0.15686274509803921" green="0.66666666666666663" blue="0.75294117647058822" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
+                            <constraint firstItem="DBF-Wb-uen" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="65" id="1IA-30-QCH"/>
                             <constraint firstItem="k0P-kf-cwj" firstAttribute="top" secondItem="Pnz-f9-LHz" secondAttribute="bottom" constant="53" id="2lE-ok-EwJ"/>
                             <constraint firstItem="DBF-Wb-uen" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="39" id="BQN-rC-mH8"/>
                             <constraint firstItem="DBF-Wb-uen" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="IZa-0h-2Eh"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="DBF-Wb-uen" secondAttribute="trailing" constant="65" id="Igg-NL-4bS"/>
                             <constraint firstItem="Pnz-f9-LHz" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="XHg-hq-UiL"/>
                             <constraint firstItem="Pnz-f9-LHz" firstAttribute="centerX" secondItem="k0P-kf-cwj" secondAttribute="centerX" id="YxF-35-VjA"/>
                             <constraint firstItem="k0P-kf-cwj" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="130" id="aG1-8S-IOe"/>
